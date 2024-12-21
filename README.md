@@ -11,8 +11,10 @@
 
 ##
 
-## Here are my Stats 🔭
+### Here are my Stats 🔭
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AryaK19&show_icons=true&theme=tokyonight" alt="AryaK19" />
+
+##
 
 ### Top Languages Used ⚡
 <div align="center">
