@@ -32,7 +32,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,js,mysql,html,css)](https://skillicons.dev)
 
-**Technologies** 
+**Technologies :** 
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,flask,figma,react,nodejs,ps,blender,fastapi,pytorch,tensorflow)](https://skillicons.dev)
 
