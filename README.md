@@ -1,5 +1,7 @@
 # Hi✨, I'm Arya Kadam
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/AryaK19/AryaK19/main/name.svg" alt="ARYA KADAM" />
+</h1>
 <!--
 **AryaK19/AryaK19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
