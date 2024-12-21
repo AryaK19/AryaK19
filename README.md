@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Here are my Stats 🔭
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AryaK19&show_icons=true&theme=gotham" alt="AryaK19" />
 
-### Top Languages Used 🔭
+### Top Languages Used ⚡
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaK19&layout=compact&hide_title=1&card_width=300" />
   <br />
