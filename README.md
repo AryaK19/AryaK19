@@ -11,7 +11,7 @@
 
 🤖 Making Machines Intelligent
 
-<img src="https://raw.githubusercontent.com/AryaK19/AryaK19/60006118e2045a21d3c7eef64bbb9e506094f7b1/SELF.svg" alt="ARYA KADAM" />
+<img src="https://raw.githubusercontent.com/AryaK19/AryaK19/ddb9e123db4e320a55a88aacd4100c221650b14c/SELF.svg" alt="ARYA KADAM" />
 
 ##
 
