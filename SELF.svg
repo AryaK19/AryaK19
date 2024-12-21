@@ -20,7 +20,7 @@
                     font-size: 1.2em;
                     font-weight: 600;
                     text-align: left;
-                    background: linear-gradient(270deg, #2b2b7c, #6b45a8, #905ea9, #a379bd);
+                    background: linear-gradient(270deg,rgb(33, 79, 49),rgb(69, 168, 125),rgb(94, 159, 169),rgb(255, 255, 255));
                     background-size: 200%;
                     background-clip: text;
                     -webkit-background-clip: text;
