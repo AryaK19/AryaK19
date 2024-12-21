@@ -1,6 +1,6 @@
-# Hi✨, I'm 
+<!-- # Hi✨, I'm  -->
 <h1 align="center">
-<div>HI I'M</div>
+<div>Hi✨, I'm</div>
   <img src="https://raw.githubusercontent.com/AryaK19/AryaK19/60006118e2045a21d3c7eef64bbb9e506094f7b1/NAME.svg" alt="ARYA KADAM" />
 </h1>
 
