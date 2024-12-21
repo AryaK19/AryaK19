@@ -28,23 +28,13 @@
 ##
 
 ### Skills & Technologies 🛠
-**Languages**
+**Languages :**
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,js,sql,cobol)](https://skillicons.dev)
-  
-<!-- ### Skills & Technologies
-
-**Languages**
-- Python | C++ | Java | JavaScript | SQL | COBOL
-
-**AI/ML**
-- TensorFlow | PyTorch | GenAI | LLMs | Computer Vision
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,js,mysql,html,css)](https://skillicons.dev)
 
 **Technologies** 
-- MongoDB | FastAPI | MERN | Git | Figma | Unity
 
-**Concepts**
-- Data Structures | Algorithms | OOP | Scrum | Agile -->
+[![My Skills](https://skillicons.dev/icons?i=mongodb,flask,figma,react,nodejs,ps,blender,fastapi,pytorch,tensorflow)](https://skillicons.dev)
 
 ##
 
