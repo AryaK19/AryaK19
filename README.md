@@ -1,11 +1,11 @@
 <!-- # Hi✨, I'm  -->
 <h1 align="center">
 <div>Hi✨, I'm</div>
-  <img src="https://raw.githubusercontent.com/AryaK19/AryaK19/4a89f2ef254b61b01512c5c9256d136f64674cdb/NAME.svg" alt="ARYA KADAM" />
+  <img src="https://raw.githubusercontent.com/AryaK19/AryaK19/e74673f86a651bd340932cd69ac1eb7eb1c56548/NAME.svg" />
 </h1>
 
 ### About Me 👨‍💻
-<img src="https://raw.githubusercontent.com/AryaK19/AryaK19/4a89f2ef254b61b01512c5c9256d136f64674cdb/SELF.svg" alt="ARYA KADAM" />
+<img src="https://raw.githubusercontent.com/AryaK19/AryaK19/e74673f86a651bd340932cd69ac1eb7eb1c56548/SELF.svg" alt="ARYA KADAM" />
 
 ##
 
