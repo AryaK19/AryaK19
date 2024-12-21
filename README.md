@@ -11,6 +11,7 @@
 
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/AryaK19/AryaK19/d7962d5312683f155471bd2e690027982e75b88d/STATS.svg" alt="ARYA KADAM" />
+<div>  </div>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AryaK19&show_icons=true&theme=cobalt" alt="AryaK19" />
 </h1>
 
