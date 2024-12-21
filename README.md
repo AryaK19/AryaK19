@@ -29,6 +29,7 @@
 
 ### Skills & Technologies 🛠
 **Languages**
+
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,js,sql,cobol)](https://skillicons.dev)
   
 <!-- ### Skills & Technologies
