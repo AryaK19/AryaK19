@@ -32,8 +32,8 @@
 				  font-weight: 900;
 				  letter-spacing: -.05em;
 				  text-align: center;
-				  background: radial-gradient(circle, #000022,rgb(0, 0, 81),rgb(231, 104, 254),rgb(255, 0, 157), #ffffff);
-				  background: linear-gradient(270deg, #000022, #1e1e7a, #8b319a, #ff6ec7, #ffffff);
+				  background: radial-gradient(circle, #000022,rgb(0, 0, 81),rgb(231, 104, 254),rgb(191, 0, 255),rgb(237, 182, 255));
+				  background: linear-gradient(270deg, #000022, #1e1e7a, #8b319a, #ff6ec7,rgb(255, 205, 249));
 				  background-size: 200%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
