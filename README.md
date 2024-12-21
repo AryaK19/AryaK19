@@ -5,12 +5,6 @@
 </h1>
 
 ### About Me 👨‍💻
-🎓 20 year old IT Student
-
-🌟 Likes to Design Things
-
-🤖 Making Machines Intelligent
-
 <img src="https://raw.githubusercontent.com/AryaK19/AryaK19/ddb9e123db4e320a55a88aacd4100c221650b14c/SELF.svg" alt="ARYA KADAM" />
 
 ##
