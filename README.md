@@ -23,13 +23,14 @@
   <small>Languages used in my public repos - big fan of Python 😛</small>
   <br />
   <br />
-</div> -->
+</div> 
 
 ##
 
 ### Skills & Technologies 🛠
 <div class="skills-section">
   <i class="programming lang-python"></i>
+</div>
   
 ### Skills & Technologies
 
@@ -44,7 +45,6 @@
 
 **Concepts**
 - Data Structures | Algorithms | OOP | Scrum | Agile
-</div>
 
 ##
 
