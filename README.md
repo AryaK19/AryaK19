@@ -28,11 +28,9 @@
 ##
 
 ### Skills & Technologies 🛠
-<div class="skills-section">
-  <i class="programming lang-python"></i>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,wasm)](https://skillicons.dev)
   
-### Skills & Technologies
+<!-- ### Skills & Technologies
 
 **Languages**
 - Python | C++ | Java | JavaScript | SQL | COBOL
@@ -44,7 +42,7 @@
 - MongoDB | FastAPI | MERN | Git | Figma | Unity
 
 **Concepts**
-- Data Structures | Algorithms | OOP | Scrum | Agile
+- Data Structures | Algorithms | OOP | Scrum | Agile -->
 
 ##
 
