@@ -14,5 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Here are my Stats
+
+### Here are my Stats 🔭
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AryaK19&show_icons=true&theme=gotham" alt="AryaK19" />
+
+### Top Languages Used 🔭
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaK19&layout=compact&hide_title=1&card_width=300" />
+  <br />
+  <small>Languages used in my public repos - big fan of Python 😛</small>
+  <br />
+  <br />
+</div>
