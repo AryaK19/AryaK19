@@ -11,6 +11,8 @@
 
 🤖 Making Machines Intelligent
 
+<img src="https://raw.githubusercontent.com/AryaK19/AryaK19/60006118e2045a21d3c7eef64bbb9e506094f7b1/SELF.svg" alt="ARYA KADAM" />
+
 ##
 
 ### Here are my Stats 🔭
