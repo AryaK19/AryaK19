@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/AryaK19/AryaK19/60006118e2045a21d3c7eef64bbb9e506094f7b1/NAME.svg" alt="ARYA KADAM" />
 </h1>
 
-## About Me 👨‍💻
+### About Me 👨‍💻
 🎓 20 year old IT Student
 🌟 Likes to Design Things
 🤖 Making Machines Intelligent
