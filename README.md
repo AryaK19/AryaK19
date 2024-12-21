@@ -15,3 +15,12 @@
   <br />
   <br />
 </div>
+
+### Skills & Technologies 🛠
+```python
+skills = {
+    "Languages": ["Python", "C++", "Java", "JavaScript", "SQL", "COBOL"],
+    "AI/ML": ["TensorFlow", "PyTorch", "GenAI", "LLMs", "Computer Vision"],
+    "Technologies": ["MongoDB", "FastAPI", "MERN", "Git", "Figma", "Unity"],
+    "Concepts": ["Data Structures", "Algorithms", "OOP", "Scrum", "Agile"]
+}
