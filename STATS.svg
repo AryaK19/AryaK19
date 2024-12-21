@@ -2,26 +2,14 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-.container {
-    position: relative;
-    padding: 20px;
-    background: linear-gradient(45deg, #0a0a2e, #1a1a3a);
-    border-radius: 10px;
-    overflow: hidden;
-}
 
-.container::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-image: 
-        radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 2px);
-    background-size: 50px 50px;
-    animation: stars 4s linear infinite;
-}
+                .container {
+                    display: flex;
+                    <!-- flex-direction: column; -->
+                    gap: 4px;
+                    padding-left: 20px;
+                    width: 100%;
+                }
 p {
     font-family: 'Segoe UI', sans-serif;
     margin: 0;
