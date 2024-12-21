@@ -5,11 +5,13 @@
 </h1>
 
 ### About Me 👨‍💻
-<img src="https://raw.githubusercontent.com/AryaK19/AryaK19/e74673f86a651bd340932cd69ac1eb7eb1c56548/SELF.svg" alt="ARYA KADAM" />
+<img src="https://raw.githubusercontent.com/AryaK19/AryaK19/34dae044a4a4cb05a7370f359a30874b6b36051d/SELF.svg" alt="ARYA KADAM" />
 
 ##
 
-### Here are my Stats 🔭
+<!-- ### Here are my Stats 🔭 -->
+<img src="https://raw.githubusercontent.com/AryaK19/AryaK19/34dae044a4a4cb05a7370f359a30874b6b36051d/STATS.svg" alt="ARYA KADAM" />
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AryaK19&show_icons=true&theme=tokyonight" alt="AryaK19" />
 
 ##
