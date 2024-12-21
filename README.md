@@ -6,7 +6,9 @@
 
 ### About Me 👨‍💻
 🎓 20 year old IT Student
+
 🌟 Likes to Design Things
+
 🤖 Making Machines Intelligent
 
 ##
