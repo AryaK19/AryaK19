@@ -4,8 +4,13 @@
   <img src="https://raw.githubusercontent.com/AryaK19/AryaK19/e74673f86a651bd340932cd69ac1eb7eb1c56548/NAME.svg" />
 </h1>
 
-### About Me 👨‍💻
+<h1 align="center">
+<div style="font-size: 1.5rem;">About Me 👨‍💻</div>
 <img src="https://raw.githubusercontent.com/AryaK19/AryaK19/34dae044a4a4cb05a7370f359a30874b6b36051d/SELF.svg" alt="ARYA KADAM" />
+</h1>
+
+<!-- ### About Me 👨‍💻
+<img src="https://raw.githubusercontent.com/AryaK19/AryaK19/34dae044a4a4cb05a7370f359a30874b6b36051d/SELF.svg" alt="ARYA KADAM" /> -->
 
 ##
 
