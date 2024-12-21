@@ -10,9 +10,8 @@
 ##
 
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/AryaK19/AryaK19/34dae044a4a4cb05a7370f359a30874b6b36051d/STATS.svg" alt="ARYA KADAM" />
+<img src="https://raw.githubusercontent.com/AryaK19/AryaK19/d7962d5312683f155471bd2e690027982e75b88d/STATS.svg" alt="ARYA KADAM" />
 </h1>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AryaK19&show_icons=true&theme=tokyonight" alt="AryaK19" />
 
 ##
