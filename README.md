@@ -10,7 +10,7 @@
 🤖 Making Machines Intelligent
 
 ### Here are my Stats 🔭
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AryaK19&show_icons=true&theme=tokyonight" alt="AryaK19" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AryaK19&show_icons=true&theme=tokyonight" alt="AryaK19" />
 
 ### Top Languages Used ⚡
 <div align="center">
@@ -19,7 +19,8 @@
   <small>Languages used in my public repos - big fan of Python 😛</small>
   <br />
   <br />
-</div>
+</div> -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaK19)
 
 ### Skills & Technologies 🛠
 ```python
