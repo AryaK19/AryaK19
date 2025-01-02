@@ -5,7 +5,7 @@
 </h1>
 
 ### About Me 👨‍💻
-<img src="https://raw.githubusercontent.com/AryaK19/AryaK19/34dae044a4a4cb05a7370f359a30874b6b36051d/SELF.svg" alt="ARYA KADAM" />
+<img src="https://raw.githubusercontent.com/AryaK19/AryaK19/4a60163f8eccc5f477432e84c3c0e52a7eead425/SELF.svg" alt="ARYA KADAM" />
 
 ##
 
